@@ -5,4 +5,4 @@
 In 3D computer graphics, 3D modeling is the process of developing a mathematical representation of any surface of an object in three dimensions via specialized software. The product is called a 3D model.
 
 ### [Homework 1](/homework-1)
-### Homework 2
+### [Homework 2](/homework-2)
