@@ -1,7 +1,7 @@
 # Homework no. 2
 ## Isometric exercises
 
-Models A1, A2, A3 and A4 have been modeled based on the following isometric schemes:
+A1, A2, A3 and A4 have been modeled based on the following isometric schemes:
 
 ### A1
 ![A1](isometric-schemes/A1.png)
