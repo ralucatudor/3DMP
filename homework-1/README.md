@@ -5,3 +5,8 @@
 2. Create a 3D model vase starting from a 2D sketch.
 3. Edit the vase shape by modifying the 2D sketch.
 4. Slice both models in Prusa Slicer using different ways to find out the optimal time for printing.
+
+
+<p>
+<img src="https://github.com/ralucatudor/3DMP/blob/master/homework-1/sliced_dog_and_vase.png" width=60% align="middle">
+</p>
