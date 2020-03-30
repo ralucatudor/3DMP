@@ -7,10 +7,18 @@ Models A1, A2, A3 and A4 have been modeled based on the following isometric sche
 ![A1](isometric-schemes/A1.png)
 
 ### A2
-<img src="https://github.com/ralucatudor/3DMP/blob/master/homework-2/isometric-schemes/A2.png" width=70%>
+<img src="https://github.com/ralucatudor/3DMP/blob/master/homework-2/isometric-schemes/A2.png" width=60%>
 
 ### A3
-<img src="https://github.com/ralucatudor/3DMP/blob/master/homework-2/isometric-schemes/A3.png" width=70%>
+<img src="https://github.com/ralucatudor/3DMP/blob/master/homework-2/isometric-schemes/A3.png" width=60%>
 
 ### A4
-<img src="https://github.com/ralucatudor/3DMP/blob/master/homework-2/isometric-schemes/A4.jpg" width=70%>
+<img src="https://github.com/ralucatudor/3DMP/blob/master/homework-2/isometric-schemes/A4.jpg" width=60%>
+
+## Sliced Models
+<p>
+<img src="https://github.com/ralucatudor/3DMP/blob/master/homework-2/isometric-exercises/sliced-A1.png" width=45%>
+<img src="https://github.com/ralucatudor/3DMP/blob/master/homework-2/isometric-exercises/sliced-A2.png" width=45%>
+<img src="https://github.com/ralucatudor/3DMP/blob/master/homework-2/isometric-exercises/sliced-A3.png" width=45%>
+<img src="https://github.com/ralucatudor/3DMP/blob/master/homework-2/isometric-exercises/sliced-A4.png" width=45%>
+<\p>
