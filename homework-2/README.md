@@ -10,7 +10,7 @@ Models A1, A2, A3 and A4 have been modeled based on the following isometric sche
 ![A2](isometric-schemes/A2.png)
 
 ### A3
-![A3](isometric-schemes/A3.jpg)
+![A3](isometric-schemes/A3.png)
 
 ### A4
 ![A4](isometric-schemes/A4.jpg)
