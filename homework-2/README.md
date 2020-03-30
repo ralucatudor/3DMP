@@ -7,10 +7,10 @@ Models A1, A2, A3 and A4 have been modeled based on the following isometric sche
 ![A1](isometric-schemes/A1.png)
 
 ### A2
-![A2](isometric-schemes/A2.png)
+<img src="https://github.com/ralucatudor/3DMP/blob/master/homework-2/isometric-schemes/A2.png" width=70%>
 
 ### A3
-![A3](isometric-schemes/A3.png)
+<img src="https://github.com/ralucatudor/3DMP/blob/master/homework-2/isometric-schemes/A3.png" width=70%>
 
 ### A4
-![A4](isometric-schemes/A4.jpg)
+<img src="https://github.com/ralucatudor/3DMP/blob/master/homework-2/isometric-schemes/A4.jpg" width=70%>
