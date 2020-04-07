@@ -13,3 +13,8 @@ In 3D computer graphics, 3D modeling is the process of developing a mathematical
 ### [Homework 2](/homework-2)
 ### [Homework 3](/homework-3)
 ### [Homework 4](/homework-4)
+
+The folder for each homework contains:
+- stl objects
+- f3d files
+- print screens of the slicer window
