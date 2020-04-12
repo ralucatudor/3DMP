@@ -25,7 +25,7 @@ Having extruded the Parametric sketch, we can start the Direct Editing.
 #### Course #3.7 - Importing references
 Importing existing models and using them as references in sculpting our own 3D model.
 grabcad.com - all the models are free (Note: if you are importing other models from other sites, do not forget to read the copyright)\
-\- upload STP/ STEP files \
+\- upload STP/ STEP files
 
 S - opens "Design Shortcuts", derive and then (in the next project) "break the link" from the previous
 
