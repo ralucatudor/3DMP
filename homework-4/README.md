@@ -19,6 +19,10 @@ g. Create a motion study
 <img src="https://github.com/ralucatudor/3DMP/blob/master/homework-4/scotch-yoke-mechanism/images/Scotch%20Yoke%20Mechanism%20v7'''.png" width=49%>
 </p>
 
+Sliced pieces scaled at 70%:\
+<img src="https://github.com/ralucatudor/3DMP/blob/master/homework-4/scotch-yoke-mechanism/sliced_scotch_yoke_mechanism_pieces.png" width=50%>
+
+
 _3. Create a scene with a **twisted column on a polygon surface**._
 >a. Use polygons tool to create the base.\
 b. Replace the top face of the base with a custom surface to create the specific landscape for the column.\
