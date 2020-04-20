@@ -9,10 +9,10 @@ In 3D computer graphics, 3D modeling is the process of developing a mathematical
 - Autodesk Fusion 360
 - PrusaSlicer
 
-### [Homework 1](/homework-1)
-### [Homework 2](/homework-2)
-### [Homework 3](/homework-3)
-### [Homework 4](/homework-4)
+#### [Homework 1](/homework-1) (Keychain and Vase)
+#### [Homework 2](/homework-2) (Isometric Exercises and Thingiverse Model)
+#### [Homework 3](/homework-3) (Chess Pieces Set)
+#### [Homework 4](/homework-4) (Crank and Slotted Mechanism, Scotch Yoke Mechanism and Twisted Column)
 
 The folder for each homework contains:
 - stl objects
