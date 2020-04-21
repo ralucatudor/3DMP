@@ -5,6 +5,8 @@ Academic year 2019-2020 - first year of studies, second semester
 ## What is 3D modeling?
 In 3D computer graphics, 3D modeling is the process of developing a mathematical representation of any surface of an object in three dimensions via specialized software. The product is called a 3D model.
 
+The first published account of a printed solid model was made in 1981 by Hideo Kodama
+
 ## Software used
 - Autodesk Fusion 360
 - PrusaSlicer
