@@ -1,11 +1,11 @@
 # 3DMP
 3D Modeling and Printing Course - [UniBuc Robotics](https://github.com/unibucrobotics) - held at the Faculty of Mathematics and Computer Science, University of Bucharest \
-Academic year 2019-2020 - first year of studies, second semester
+Academic Year 2019-2020 - First year of studies, second semester
 
 ## What is 3D modeling?
 In 3D computer graphics, 3D modeling is the process of developing a mathematical representation of any surface of an object in three dimensions via specialized software. The product is called a 3D model.
 
-The first published account of a printed solid model was made in 1981 by Hideo Kodama
+The first published account of a printed solid model was made in 1981 by Hideo Kodama.
 
 ## Software used
 - Autodesk Fusion 360
